@@ -1,4 +1,4 @@
-# TestProject
+# GitShortcuts
 # 🧠 Ultimate Git Command Reference
 
 ---
